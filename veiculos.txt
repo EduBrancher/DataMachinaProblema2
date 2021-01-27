@@ -1,0 +1,5 @@
+Lala Moto 35 40 30 20
+Lala Fiorino 188 133 108 500
+Lala Carreto 300 180 200 1500
+Ogi Moto 52 36 52 20
+Ogi SUV 125 80 60 200
